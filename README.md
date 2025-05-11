@@ -1,5 +1,5 @@
-# Exercicios_Faculdade
-## Este repositório é voltado para as atividade da disciplina de WEB2 do curso de ANALISE E DESENVOLVIMENTO DE SISTEMAS
+# :mortar_board: Exercicios_Faculdade
+Este repositório é voltado para as atividade da disciplina de WEB2 do curso de ANALISE E DESENVOLVIMENTO DE SISTEMAS
 
 ### :dart: Conteundo da disciplina:
 - Django
